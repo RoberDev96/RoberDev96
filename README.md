@@ -40,9 +40,9 @@ Soy **Desarrollador Frontend** con más de 2 años de experiencia creando aplica
 ## 📫 Conéctate conmigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](TU_URL_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](TU_URL_TWITTER)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react&logoColor=white)](TU_URL_PORTFOLIO)
+[![Telegram](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react&logoColor=white)](TU_URL_PORTFOLIO)
 
 ---
 
-⭐️ De [@TU_USUARIO](https://github.com/TU_USUARIO)
+⭐️ De [@RoberDev96](https://github.com/RoberDev96)
