@@ -31,13 +31,16 @@ Soy **Desarrollador Frontend** con más de 2 años de experiencia creando aplica
 
 ## 🔥 Proyectos Destacados
 
-### [Nombre del Proyecto 1](link-al-repo)
-![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=NOMBRE_REPO&theme=radical)
+### [PokeApi](link-al-repo)
+<a href="https://github.com/RoberDev96/PokeApi">
+  <img width="921" alt="Captura de pantalla de 2026-03-17 15-28-52" src="https://github.com/user-attachments/assets/2e1e6355-60f9-4ae6-b9e9-362092ceb3f8" />
+</a>
 
 ### [Nombre del Proyecto 2](link-al-repo)
 ![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=NOMBRE_REPO&theme=radical)
 
-## 📫 Conéctate conmigo
+## 📫 Conéctate conmigo![Uploading Captura de pantalla de 2026-03-17 15-28-52.png…]()
+
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](TU_URL_LINKEDIN)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react&logoColor=white)](TU_URL_PORTFOLIO)
