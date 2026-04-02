@@ -8,7 +8,6 @@ Soy **Desarrollador Frontend** con más de 2 años de experiencia creando aplica
 ### Lenguajes de Programación
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-<!-- Agrega más según necesites -->
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -29,23 +28,27 @@ Soy **Desarrollador Frontend** con más de 2 años de experiencia creando aplica
 
 ![Visitas](https://komarev.com/ghpvc/?username=RoberDev96&color=blue)
 
-
 ## 🔥 Proyectos Destacados
 
-### [PokeApi](link-al-repo)
-<a href="https://roberdev96.github.io/PokeApi/">
-  <img width="921" alt="Captura de pantalla de 2026-03-17 15-28-52" src="https://github.com/user-attachments/assets/2e1e6355-60f9-4ae6-b9e9-362092ceb3f8" />
+### [Mi Portafolio](https://robertdev96.vercel.app)
+<a href="https://robertdev96.vercel.app">
+  <img width="921" alt="Captura de mi portafolio" src="https://raw.githubusercontent.com/RoberDev96/Mi-portafolio/refs/heads/main/public/imagen/Captura%20de%20pantalla%20de%202026-04-02%2014-02-57.png" />
 </a>
 
-### [Nombre del Proyecto 2](link-al-repo)
-![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=NOMBRE_REPO&theme=radical)
+**Mi portafolio personal** - Desarrollado con Astro y Tailwind CSS, mostrando mis proyectos y experiencia como desarrollador frontend.
 
-## 📫 Conéctate conmigo![Uploading Captura de pantalla de 2026-03-17 15-28-52.png…]()
+### [PokeApi](https://roberdev96.github.io/PokeApi/)
+<a href="https://roberdev96.github.io/PokeApi/">
+  <img width="921" alt="Captura de PokeApi" src="https://github.com/user-attachments/assets/2e1e6355-60f9-4ae6-b9e9-362092ceb3f8" />
+</a>
 
+**Aplicación de Pokémon** - Buscador de Pokémon usando la PokeAPI, desarrollado con React.
+
+## 📫 Conéctate conmigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](TU_URL_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react&logoColor=white)](TU_URL_PORTFOLIO)
-[![Telegram](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react&logoColor=white)](TU_URL_PORTFOLIO)
+[![Portafolio](https://img.shields.io/badge/-Portafolio-000000?style=flat&logo=vercel&logoColor=white)](https://robertdev96.vercel.app)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/RoberDev96)
 
 ---
 
