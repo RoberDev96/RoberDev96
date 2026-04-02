@@ -34,7 +34,7 @@ Soy **Desarrollador Frontend** con más de 2 años de experiencia creando aplica
 
 ### [PokeApi](link-al-repo)
 <a href="https://github.com/RoberDev96/PokeApi">
-  <img width="921" alt="Captura de pantalla de 2026-03-17 15-28-52" src="https://github.com/user-attachments/assets/2e1e6355-60f9-4ae6-b9e9-362092ceb3f8" />
+  <img width="921" alt="Captura de pantalla de 2026-03-17 15-28-52" src="https://roberdev96.github.io/PokeApi/" />
 </a>
 
 ### [Nombre del Proyecto 2](link-al-repo)
