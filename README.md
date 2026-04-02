@@ -7,6 +7,7 @@ Soy **Desarrollador Frontend** con más de 2 años de experiencia creando aplica
 
 ### Lenguajes de Programación
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 <!-- Agrega más según necesites -->
 
 ### Frontend
