@@ -32,17 +32,37 @@ Soy **Desarrollador Frontend** con más de 2 años de experiencia creando aplica
 
 ### [Mi Portafolio](https://robertdev96.vercel.app)
 <a href="https://robertdev96.vercel.app">
-  <img width="921" alt="Captura de mi portafolio" src="https://raw.githubusercontent.com/RoberDev96/Mi-portafolio/refs/heads/main/public/imagen/Captura%20de%20pantalla%20de%202026-04-02%2014-02-57.png" />
+  <img width="921" alt="Captura de mi portafolio" src="https://github.com/RoberDev96/Mi-portafolio/blob/main/public/imagen/PortafolioImg.png?raw=true" />
 </a>
 
 **Mi portafolio personal** - Desarrollado con Astro y Tailwind CSS, mostrando mis proyectos y experiencia como desarrollador frontend.
 
-### [PokeApi](https://roberdev96.github.io/PokeApi/)
-<a href="https://roberdev96.github.io/PokeApi/">
-  <img width="921" alt="Captura de PokeApi" src="https://github.com/user-attachments/assets/2e1e6355-60f9-4ae6-b9e9-362092ceb3f8" />
+### [PokeApi - Versión Astro](https://poke-api-astro-beta.vercel.app/pokemons/1)
+
+<a href="https://poke-api-astro-beta.vercel.app/pokemons/1">
+  <img width="921" alt="Captura de la nueva PokeApi hecha con Astro" src="https://github.com/RoberDev96/PokeApi-Astro/blob/main/public/Poke.png?raw=true" />
 </a>
 
-**Aplicación de Pokémon** - Buscador de Pokémon usando la PokeAPI, desarrollado con React.
+**Aplicación de Pokémon** - Enciclopedia Pokémon moderna usando la PokeAPI.
+
+**🚀 ¡Nueva versión!** Reconstruida desde cero con **Astro** para lograr el máximo rendimiento y una experiencia de usuario superior.
+
+**✨ Características:**
+- ⚡ **Rendimiento excepcional** gracias a la arquitectura "Islands" de Astro.
+- 📄 **Paginación estática** para una navegación instantánea entre páginas.
+- ⭐ **Sistema de favoritos** que guarda tus Pokémon localmente.
+- 🎵 **Reproducción de gritos (cries)** originales de cada Pokémon.
+- 🎨 **Diseño responsivo y moderno** construido con TailwindCSS.
+
+**🛠️ Tecnologías:**
+- [Astro](https://astro.build)
+- [Tailwind CSS](https://tailwindcss.com)
+- [TypeScript](https://www.typescriptlang.org/)
+- [PokeAPI](https://pokeapi.co/)
+
+**🔗 Enlaces:**
+- [Repositorio del proyecto Astro](https://github.com/RoberDev96/PokeApi-Astro)
+- [Demo en vivo (Vercel)](https://poke-api-astro-beta.vercel.app/pokemons/1)
 
 ## 📫 Conéctate conmigo
 
